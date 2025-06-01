@@ -38,9 +38,6 @@ Evaluate the model on test data and print accuracy. Plot training/validation los
 
 
 
-### Name:ONTEDDU SIRISHA REDDY
-
-### Register Number:212222230103
 ### OUTPUT
 
 ## Training Loss per Epoch
